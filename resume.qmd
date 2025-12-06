@@ -1,89 +1,138 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andie's CV
+editor: 
+  markdown: 
+    wrap: 72
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Andie Razakamanana A.
 
+::: {#webaddress}
+<a href="isaac@applesdofall.org">\| andierazakamanana\@gmail.com</a> \|
+<a href="http://en.wikipedia.org/wiki/Isaac_Newton">www.linkedin.com/in/andie-razakamanana-aa8486262</a>
+:::
 
-## Currently
+### Skills
 
-Standing on the shoulders of giants
+-   Computer Skills: Word, Excel, PowerPoint, Google Slides, website
+    creation.
+-   Software Knowledge: Power BI, Tableau, R Studio, Programming Python,
+    SQL.
+-   Data Wrangling and Visualization through DS 350.
+-   Learned financial accounting, managerial accounting.
+-   Language: Spoke French(Native), English(Native), and
+    Malagasy(Native).
 
-### Specialized in
+### Education
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Business Analytics - Bachelors**
 
+September 2022 - April 2026, Rexburg, Idaho
 
-### Research interests
+*Brigham Young University - Idaho*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+-   Earned GPA of 3.78
 
+**Social Psychology - Bachelors**
 
-## Education
+January 2014 - December 2017, Antananarivo, Madagascar
 
-`1654-1660`
-__The King's School, Grantham.__
+*University of Antananarivo*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+**Measurement Specialist**
 
-`1667 - death`
-__Trinity College, Cambridge__
+*Brigham Young University Idaho*\
+January 2023-Now, Rexburg, Idaho
 
-- Fellow
+-   Gathering and processing course evaluation data.
 
+<!-- -->
 
+-   Assisting with data analysis.
 
-## Awards
+<!-- -->
 
-`2012`
-President, *Royal Society*, London, UK
+-   Presenting Reports on findings through data analysis.
 
-Associate, *French Academy of Science*, Paris, France
+**Measurement Specialist Intern**
 
+*Brigham Young University-Idaho*
 
+April 21, 2025- July 23, 2025 Rexburg, Idaho
 
-## Publications
+-   Analyzed data using different tools such as Power BI, R Studio,
+    Excel, and shared reports following specific outlines.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+**Interpreter**
 
-### Journals
+*The Church of Jesus Christ of Latter-Day Saints*
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+March 2021 Antananarivo-Madagascar
 
-`1669`
-Lectiones opticæ.
+-   Interpreted Malagasy to English technical terms for 5 church leaders
+    during a conference.
 
-etc. etc. etc.
+## Leadership Experience
 
-### Patents
+*Crossroad- Food Services BYU idaho*
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Student Lead**
 
+September 2022 - December 2023 Rexburg
 
-## Occupation
+-   As a student lead, trained people to work as dishwashers and ensured
+    people worked efficiently and on time.
 
-`1600`
-__Royal Mint__, London
+*The Church of Jesus Christ of Latter-Day Saints*
 
-- Warden
-- Minted coins
+**Missionary Leader**
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+January 2020 - July 2020 Congo Kinshasa East
 
+-   Managed the responsibilities and duties of each sister missionary
+    for seven months as a full-time missionary.
 
+*The Church of Jesus Christ of Latter-Day Saints*
 
+**Primary President**
+
+January 2018 - August 2019 Antananarivo Madagascar
+
+-   Directed twelve teachers in teaching of 50 children during Sunday
+    school every Sunday.
+
+## Internships
+
+**Data Arranger**
+
+*OMAPI, Antananarivo Madagascar*
+
+January 2015 - February 2015
+
+-   Registered data of new products for the company OMAPI for two
+    months.
+
+## Extra Curricular Activities
+
+-   **Volunteer Experience:** Mormon Helping Hand. Cleaning and coloring
+    school.
+
+-   **Community Service:** Giving food and clothes to the needy.
+
+-   **Position of Responsibility:** Teaching French and English for free
+    to children.
+
+## Hobbies and Interests
+
+-   Love learning new skills.
+
+-   Love watching documentaries about business.
+
+```{=html}
 <!-- ### Footer
 
 Last updated: May 2013 -->
+```
